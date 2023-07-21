@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    font-family: Georgia, 'Times New Roman', Times, serif, Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    max-width: 1140px;
+    margin: auto;
+}
+.dise-box{margin: auto;
+    text-align: center;
+
+}
+img{
+    width: 300px;
+    margin-top: 50px;
+}
+h3{
+    margin-top: 50px;
+    color: black;
+}
+h2{
+    margin-top: 20px;
+    text-align: center;
+    color: #f80d0d;
+    padding: 15px;
+}
